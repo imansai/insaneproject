@@ -12,3 +12,13 @@
     font-family: "space";
     src: url("./fonts/SpaceMono-Regular.ttf"), format('truetype');
 };
+
+@font-face {
+    font-family: "decima";
+    src: url("./fonts/DecimaMonoX.ttf"), format('truetype');
+};
+
+@font-face {
+    font-family: "ron";
+    src: url("./fonts/RON.ttf"), format('truetype');
+};
